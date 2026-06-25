@@ -20,6 +20,10 @@ class YoutubeController:
 
     def trigger_action(self, gesture):
         if gesture not in self.action_map:
+            self.last_gesture = None # Reset to fire next gesture instantly
+            return False
+        
+        if gesture == self.last_gesture:
             return False
         
         current_time = time.time()
