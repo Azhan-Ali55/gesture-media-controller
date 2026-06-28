@@ -16,7 +16,7 @@ Control YouTube playback using hand gestures detected through your webcam. No br
 
 ## Download
 
-Download the latest `main.exe` from the [Releases](https://github.com/YOUR_USERNAME/gesture-media-controller/releases) page.
+Download the latest `main.exe` from the [Releases](https://github.com/Azhan-Ali55/gesture-media-controller/releases) page.
 
 ---
 
